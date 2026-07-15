@@ -14,3 +14,4 @@ A new Flutter project.
     * book mapper en data
     * Presentation
     * Luego di en data 
+    * luego cumplir el resto del flujo como book_detail.
