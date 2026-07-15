@@ -8,3 +8,9 @@ A new Flutter project.
 3. Crear `Home`
     * domain
     * data 
+        - dto
+        - service 
+    * repository dentro de domain y luego su impl en data
+    * book mapper en data
+    * Presentation
+    * Luego di en data 
